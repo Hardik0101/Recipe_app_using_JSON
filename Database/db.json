@@ -10,7 +10,7 @@
     {
       "id": "8",
       "itemName": "jiger",
-      "discription": "1234",
+      "description": "not",
       "ingredients": "ueir",
       "recipe": "weurhuehr"
     },
@@ -22,18 +22,25 @@
       "recipe": null
     },
     {
-      "id": 12,
+      "id": "12",
       "itemName": "1234",
-      "discription": "1234",
+      "description": "1234",
       "ingredients": "1234",
       "recipe": "1234"
     },
     {
-      "id": 13,
+      "id": "13",
       "itemName": "qw",
-      "discription": "qw",
+      "description": "123",
       "ingredients": "qw",
       "recipe": "qw"
+    },
+    {
+      "id": 14,
+      "itemName": "new item",
+      "discription": "Jera shake",
+      "ingredients": "jera , water , milk, suger",
+      "recipe": "watch youtube video for more"
     }
   ]
 }
